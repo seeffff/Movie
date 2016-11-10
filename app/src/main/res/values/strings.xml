@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PopularMovieApp</string>
+
+    <string name="release_date">Release Date: </string>
+    <string name="vote">Rating: </string>
+    <string name="end_vote">/10</string>
+    <string name="synopsis">Synopsis: </string>
+
+    <string name="no_internet">Error getting movies!  Either your internet connection is bad or you have no movies added to favorites</string>
+    <string name="no_detail">Select a movie on the left side to display the details here</string>
+
+    <string name="sort_popularity_desc">Most Popular</string>
+    <string name="sort_vote_desc">Highest Rated</string>
+    <string name="now_playing">Now Playing</string>
+
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="in_favorites">Remove from Favorites</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="review_heading">Reviews</string>
+    <string name="review_author">Author: </string>
+    <string name="review_content">Review: </string>
+
+    <string name="trailer_heading">Videos</string>
+    <string name="trailer_button">Play</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

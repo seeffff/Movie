@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.sunshine.MainActivity">
+    <item
+        android:id="@+id/sort_popularity_desc"
+        android:orderInCategory="1"
+        android:title="@string/sort_popularity_desc"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sort_vote_desc"
+        android:orderInCategory="2"
+        android:title="@string/sort_vote_desc"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sort_now_playing"
+        android:orderInCategory="3"
+        android:title="@string/now_playing"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sort_favorites"
+        android:orderInCategory="4"
+        android:title="@string/favorites"
+        app:showAsAction="never"/>
+</menu>
